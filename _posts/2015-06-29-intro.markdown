@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Endings And New Beginnings...
+date:   2015-06-29
+description: The road ahead...
+---
+
+So it's finally happening. After 8 years in the classroom as a high school math teacher, I'm making the transition to a field I've always been curious about - software engineering. Along the way, I've so treasured everything that my career in education has given me. Being a teacher allowed me to work with amazing educators and unforgettable students, and above all it imbued me with a sense of humility, an aspiration towards selflessness, and a humbling awareness of my responsibility to the world around me. And it was hard work, work that I willingly and lovingly dove into. I'm still in awe of educators who can maintain that same level of passion and drive throughout an entire career.
+
+On my end, though, over the last couple of years, I started realizing that while teaching continued to be challenging work, it wasn't challenging me in ways that I yearned to grow in. For me, teaching had become about continually iterating and refining my practices from previous years. If my lessons on teaching graphical limits bombed one year, my work would be figuring out how to restructure my curriculum for the following year. But after a while, the problems I was facing no longer felt new, or novel. There would always be tests to write, and homework to grade. I found myself solving the same problems over and over again, year after year, because in many ways, that is the cyclical nature of teaching. I couldn't shake the feeling that I wanted a brand new type of challenge, something would push me to learn and to stretch my intellect again.
+
+I had first discovered the world of computer programming in high school while teaching myself HTML. I had even began college with the intent of being a computer science major, but I ended up putting that on the back burner after I became an applied math major after a couple years. Through the years though, I always wondered in the back of my mind if I could have hacked it as an engineer. That thought, along with my itch to push my intellectual frontiers, was what spurred me to reteach myself computer programming two years ago.
+
+I was blown away by the amount of resources there were on the internet to learn. I devoured information and tutorials on sites like Codeacademy, Treehouse, Code School, and Coursera. Each time I learned something new that I could apply in my own programming exercises, it felt like gaining a new superpower. It was such an amazing rush to feel like I could make a computer do what I wanted through the force of my will and logic. And yet, though I felt like I was learning at a healthy pace, the information felt very scattered and unfocused - I was always losing the forest for the trees. If I was going to make a legitimate effort at turning my interest in software engineering into a profession, I felt that I needed a bit more direction and coherence in my learning.
+
+Right around this time, various coding bootcamps were popping up around the Bay Area, and major cities in the country as a whole. Each program advertised themselves as a career accelerator to get students job-ready in 3 months of intensive study. As I researched and compared all the different options, one school continually stood out in testimonials by students: the San Francisco-based [Hack Reactor][hackreactor]. Hack Reactor is touted as being the Harvard of coding academies - indeed, they advertise that their acceptance rate is actually lower than Harvard's. I decided that if I was going to take the plunge and make this huge investment on myself and my professional future, I needed to do it with the best or it wasn't worth doing it at all.
+
+To make a long story short, I applied to and was accepted by Hack Reactor, and my 3 month adventure begins today. I'm beyond excited for what this journey holds!
+
+[hackreactor]: http://www.hackreactor.com
